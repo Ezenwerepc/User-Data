@@ -1,19 +1,21 @@
 .input {
  margin: 2rem auto;
- padding: 1 rem;
+ padding: 1rem;
  width: 90%;
  max-width: 40rem;
 }
 
 .input label {
+ margin-left:2%;
  font-weight: bold;
  display: block;
  margin-bottom: 0.5rem;
 }
 
 .input input {
- display: block;
- width: 100%;
+ display:block;
+ width:95%;
+ margin:auto;
  border: 1px solid #ccc;
  font: inherit;
  line-height: 1.5rem;

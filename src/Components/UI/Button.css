@@ -1,0 +1,16 @@
+.button{
+ font:inherit;
+ border: 1px solid palevioletred;
+ background-color: purple;
+ color:white;
+ padding: 0.25rem 1rem;
+ margin-left: 2.5%;
+
+
+}
+.button:hover, 
+.button:active {
+ background-color: palevioletred;
+ border-color:palevioletred;
+
+}
